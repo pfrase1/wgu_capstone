@@ -1,4 +1,4 @@
-PIL
+PIL==8.0.0
 pandas==1.2.1
 IPython==7.20.0
 ipywidgets==7.6.3
