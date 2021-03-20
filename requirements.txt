@@ -1,4 +1,0 @@
-Pillow
-pandas
-IPython
-ipywidgets
